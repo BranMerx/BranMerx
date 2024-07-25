@@ -1,4 +1,4 @@
-#👋 Hi, I’m Brandon!
+👋 Hi, I’m Brandon!
 
   About: I am currently a junior in University studying Computer Science with a concentration in computational intelligence. I work in the financial industry but will be looking to break into the tech field once I graduate. 
   
