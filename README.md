@@ -1,19 +1,18 @@
 # 👋 Hi, I’m Brandon!
 
 ## About Me
-I recently graduated with a Bachelor of Science in Computer Science with a concentration in Computational Intelligence. I currently work in the financial industry and am transitioning into the tech field, where I’m looking for opportunities in software development, full stack engineering, and Data analytics.
+I recently graduated with a Bachelor of Science in Computer Science with a concentration in Computational Intelligence. I currently work in the financial industry and am looking to leverage my background in technology to further advance my career. I am looking to seek opportunities in either Data Analytics or Artificial Intelligence.
 
 I enjoy building applications that combine clean user experiences with efficient backend systems, and I’m continuously expanding my technical skill set through personal projects and hands-on development.
 
 ## Technical Interests
-- Full Stack Development
+- Data Analytics
 - Backend Development
 - Database Design & Cloud Technologies
-- Data Analysis
+- Machine Learning
 
 ## Currently Improving
 - Python
-- R
 - JavaScript
 - SQL
 - React
